@@ -1,0 +1,10 @@
+This repository is dual-licensed on a per-file basis:
+
+- `token-saver/` and `work-report/` are licensed under the MIT License.
+  See LICENSE-MIT.txt for the full text.
+
+- All other files (the design skills, adapted from `designer-skills` by
+  Julian Oczkowski) are licensed under the Apache License, Version 2.0.
+  See LICENSE-APACHE-2.0.txt for the full text.
+
+See NOTICE.md for full attribution.
